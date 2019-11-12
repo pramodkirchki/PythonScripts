@@ -3,7 +3,7 @@ import os
 import matplotlib.pyplot as plt
 
 
-f = open("PythonTestScript.log", "r")
+f = open("PythonTestScript.txt", "r")
 lines = f.read().splitlines()
 f.close()
 
