@@ -1,0 +1,5 @@
+2019-10-31 17:33:00,811 [INFO    ] (StatsCollector_1:measure._process:155)  Query Received
+2019-10-31 17:33:00,811 [INFO    ] (StatsCollector_1:measure.process:421)  bla1
+2019-10-31 17:33:00,811 [INFO    ] (StatsCollector_1:measure.process:421)  bla2
+2019-10-31 17:33:00,811 [INFO    ] (StatsCollector_1:measure.process:421)  bla3
+2019-10-31 17:33:00,826 [INFO    ] (StatsCollector_1:measure.process:426)  UCI stats (cellHandle:0): {'total': 0, 'ack': 0, 'nack': 0, 'dtx': 0, 'count': 1}
